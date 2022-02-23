@@ -39,3 +39,6 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experiences-main{
+    display: flex;
+}
